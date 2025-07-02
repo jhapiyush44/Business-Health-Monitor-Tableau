@@ -48,7 +48,7 @@ This project explores sales and profit data from a fictional shopping website. U
 
 ## 📤 Tableau Public Link
 
-[🔗 View the Dashboard on Tableau Public](https://public.tableau.com/app/profile/piyush.jha1660/viz/BusinessHealthMonitor/Business-Health-Monitor-Dashboard?publish=yes)
+<a href="https://public.tableau.com/app/profile/piyush.jha1660/viz/BusinessHealthMonitor/Business-Health-Monitor-Dashboard?publish=yes" target="_blank">🔗 View the Dashboard on Tableau Public</a>
 
 ---
 
